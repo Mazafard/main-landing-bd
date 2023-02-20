@@ -3,26 +3,9 @@
     "name": "Bandeira Disciplinada",
     "logo": "/assets/images/logo.png"
   },
-  "navigation": [
-    {
-      "name": "Product",
-      "href": "product"
-    },
-    {
-      "name": "Blog",
-      "href": "blog"
-    },
-    {
-      "name": "About Us",
-      "href": "about"
-    },
-    {
-      "name": "Contact Us",
-      "href": "contact"
-    }
-  ],
+  "navigation": [],
   "callToAction": {
-    "text": "Get started",
+    "text": "Bandeira",
     "href": "#"
   },
   "mainHero": {
@@ -36,43 +19,38 @@
     },
     "secondaryAction": {
       "text": "Join Our AI Community",
-      "href": "mailto:issaafakattan@gmail.com?subject=I like react landing page!"
+      "href": "mailto:bandeiradisciplinada@gmail.com?subject=I Like your company!"
     }
   },
   "product": {
-    "title": "Ondebus",
+    "title": "Bandeira Disciplinada",
     "items": [
       {
-        "title": "Real-time vehicle tracking",
-        "description": "Ondebus provides real-time information on the location and arrival time of public transportation vehicles, so users can plan their trips with confidence and know exactly when their bus or metro will arrive",
+        "title": "Expertise in AI",
+        "description": "With years of experience in the AI industry, our team of experts has the knowledge and expertise to deliver the best-in-class AI solutions. From machine learning to natural language processing, we have the skills to develop intelligent software solutions that meet your unique business needs.",
         "img": "/assets/images/product1.jpg"
       },
       {
-        "title": "Payment management",
-        "description": "With Ondebus, users can pay their public transportation fees online in one transaction or set up recurring payments, so they never have to worry about missing a payment or running out of tickets.",
+        "title": "Customizable AI Solutions",
+        "description": "At Bandeira Disciplinada, we understand that every business has unique needs. That's why we offer customizable AI solutions tailored to meet your specific requirements. We work closely with you to understand your business goals and develop AI solutions that help you achieve them.",
         "img": "/assets/images/product2.jpg"
       },
       {
-        "title": "public transportation card management",
-        "description": "Ondebus allows users to purchase and manage their bus or metro cards directly within the app, so they can have all of their public transportation-related information in one place.",
-        "img": "/assets/images/product2.jpg"
+        "title": "Quality Assurance",
+        "description": "We are committed to delivering high-quality solutions that meet industry standards. Our team follows a rigorous quality assurance process to ensure that your solution is bug-free and meets your expectations. We conduct thorough testing to ensure that your solution is functional, user-friendly, and scalable.",
+        "img": "/assets/images/product1.jpg"
       },
       {
-        "title": "Route planning",
-        "description": "Ondebus provides detailed information on different public transportation routes and schedules, so users can plan their trips more efficiently and avoid delays or unexpected detours.",
-        "img": "/assets/images/product2.jpg"
-      },
-      {
-        "title": "Push notifications",
-        "description": "Ondebus sends push notifications to users about any changes to their planned trips, such as delays or cancellations, so they can adjust their plans accordingly.",
+        "title": "Exceptional Customer Support",
+        "description": "Our commitment to customer satisfaction doesn't end with the delivery of your solution. We offer round-the-clock customer support to ensure that your solution runs smoothly and is updated regularly. Our team is always available to answer your queries, resolve issues, and provide ongoing support to ensure the success of your project.",
         "img": "/assets/images/product2.jpg"
       }
     ]
   },
   "features": {
     "title": "What We Offer. ",
-    "subtitle": "All the best technologies out there!",
-    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+    "subtitle": "Cutting-edge AI Technology",
+    "description": "Our team of experts is always up-to-date with the latest trends and technologies in the AI industry. We use cutting-edge AI technology to develop solutions that are not only functional but also visually appealing. From chatbots to predictive analytics, we incorporate the latest AI technology to make your solution stand out from the crowd.",
     "items": [
       {
         "name": "React.js",
@@ -96,51 +74,11 @@
       }
     ]
   },
-  "pricing": {
-    "title": "Pricing",
-    "items": [
-      {
-        "name": "Free",
-        "price": "$0",
-        "priceDetails": "for one user",
-        "features": [
-          "1 user",
-          "Basic Support",
-          "1 GB of storage",
-          "Email support"
-        ]
-      },
-      {
-        "name": "Pro",
-        "price": "$15",
-        "priceDetails": "per user",
 
-        "features": [
-          "5 users",
-          "Priority Support",
-          "10 GB of storage",
-          "Phone and Email support"
-        ]
-      },
-      {
-        "name": "Enterprise",
-        "price": "$29",
-        "priceDetails": "per user",
-        "features": [
-          "50 users",
-          "24/7 Support",
-          "100 GB of storage",
-          "Phone and Email support"
-        ]
-      }
-    ]
-  },
   "about": {
     "sections": [],
     "socialMedia": {
-      "github": "https://github.com/issaafalkattan",
-      "twitter": "https://twitter.com/issaafkattan",
-      "linkedin": "https://www.linkedin.com/in/issaaf-kattan/"
+      "github": "https://github.com/bandeiradisciplinada"
     }
   }
 }
