@@ -18,7 +18,7 @@ const About = () => {
         </div>
         <div className="flex items-center mt-6">
           <p className="mt-6 text-xs lg:text-sm leading-none text-gray-900 dark:text-gray-50">
-            Reach us at <mono>bandeiradisciplinada@gmail.com</mono>
+            Reach us at bandeiradisciplinada@gmail.com
           </p>
         </div>
         <div className="flex items-center gap-x-8 mt-6 h-8">
