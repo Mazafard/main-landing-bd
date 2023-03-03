@@ -1,6 +1,7 @@
 export const AppConfig = {
-  site_name: 'React landing page',
-  title: 'React landing page template 2021',
-  description: 'Production ready plug n play landing page!',
+  site_name: 'Bandeira Disciplinada',
+  title: 'Making a Positive Impact with AI Software',
+  description:
+    "We believe that technology can be a powerful tool for improving people's lives.",
   locale: 'en',
 };

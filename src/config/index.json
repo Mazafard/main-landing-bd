@@ -1,18 +1,32 @@
 {
   "company": {
     "name": "Bandeira Disciplinada",
-    "logo": "/assets/images/logo.png"
+    "logo": "data:image/png;base64,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HAbxfWorTIaMdCq+5TelOnAo1H02TL4BBtRWjjUAXj8JQMIe5PY2nbyw8WHdK48rLMW8yE4AmWU3RiKRRVmY16gPgCa2wvBFRUU+y5jYuGePmPemUpv3l7Qh/IFZzXeO28xyM+o2ewFkjl0/KRqo4RjjtEmT6Ik9TWoIpu70yz+eo84cN2veFieAVNG1aj5hNC66RH0nYRCpQ81WAaQuqqzovKWKTfR90QJIDblQrUg1j2QvNrnp8dlc+aqhJtd8VQSQmneRVLCaCggg1VRfyq55BQSQmneRVLCaCggg1VRfyq55BQSQmneRVLCaCggg1VRfyq55BQSQmneRVLCaCggg1VRfyq55BQSQmneRVLCaCggg1VRfyq55BQSQmneRVLCaCggg1VRfyq55BQSQmneRVLCaCggg1VRfyq55BQSQmneRVLCaCggg1VRfyq55BQSQmneRVLCaCggg1VRfyq55BQSQmneRVLCaCggg1VRfyq55BQSQmneRVLCaCggg1VRfyq55BQSQmneRVLCaCggg1VRfyq55BQSQmneRVLCaCggg1VRfyq55BQSQmneRVLCaCggg1VRfyq55BQSQmneRVLCaCggg1VRfyq55BQSQmneRVLCaCggg1VRfyq55BQSQmneRVLCaCvw/3DOBm3DKaMgAAAAASUVORK5CYII="
   },
-  "navigation": [],
+  "navigation": [
+    {
+      "name": "Product",
+      "href": "product"
+    },
+    {
+      "name": "Features",
+      "href": "features"
+    },
+    {
+      "name": "About",
+      "href": "about"
+    }
+
+  ],
   "callToAction": {
-    "text": "Bandeira",
-    "href": "#"
+    "text": "Get Started",
+    "href": "hi"
   },
   "mainHero": {
     "title": "Making a Positive Impact with",
     "subtitle": "AI Software",
     "description": "At BD, we believe that technology can be a powerful tool for improving people's lives. Our team of experts is dedicated to developing cutting-edge AI software solutions that solve real-world problems and make a positive impact on people's lives. From improving healthcare outcomes to streamlining daily tasks, we're committed to helping people live better lives through technology.",
-    "img": "/assets/images/happyTeam.jpeg",
+    "img": "/assets/images/happyTeam.jpg",
     "primaryAction": {
       "text": "See How We Can Help You",
       "href": "#"
@@ -28,22 +42,23 @@
       {
         "title": "Expertise in AI",
         "description": "With years of experience in the AI industry, our team of experts has the knowledge and expertise to deliver the best-in-class AI solutions. From machine learning to natural language processing, we have the skills to develop intelligent software solutions that meet your unique business needs.",
-        "img": "/assets/images/product1.jpg"
+        "img": "/assets/images/product1.svg"
       },
       {
         "title": "Customizable AI Solutions",
         "description": "At Bandeira Disciplinada, we understand that every business has unique needs. That's why we offer customizable AI solutions tailored to meet your specific requirements. We work closely with you to understand your business goals and develop AI solutions that help you achieve them.",
-        "img": "/assets/images/product2.jpg"
+        "img": "/assets/images/product2.svg"
       },
       {
         "title": "Quality Assurance",
         "description": "We are committed to delivering high-quality solutions that meet industry standards. Our team follows a rigorous quality assurance process to ensure that your solution is bug-free and meets your expectations. We conduct thorough testing to ensure that your solution is functional, user-friendly, and scalable.",
-        "img": "/assets/images/product1.jpg"
+        "img": "/assets/images/product3.svg"
       },
       {
         "title": "Exceptional Customer Support",
         "description": "Our commitment to customer satisfaction doesn't end with the delivery of your solution. We offer round-the-clock customer support to ensure that your solution runs smoothly and is updated regularly. Our team is always available to answer your queries, resolve issues, and provide ongoing support to ensure the success of your project.",
-        "img": "/assets/images/product2.jpg"
+        "img": "/assets/images/product4.svg"
+
       }
     ]
   },
@@ -53,24 +68,24 @@
     "description": "Our team of experts is always up-to-date with the latest trends and technologies in the AI industry. We use cutting-edge AI technology to develop solutions that are not only functional but also visually appealing. From chatbots to predictive analytics, we incorporate the latest AI technology to make your solution stand out from the crowd.",
     "items": [
       {
-        "name": "React.js",
-        "description": "React is a free and open-source front-end JavaScript library for building user interfaces or UI components.",
-        "icon": "/assets/images/react.png"
+        "name": "Natural Language Processing (NLP)",
+        "description": "Our team specializes in developing solutions that use NLP to analyze, interpret, and generate human language. This technology can help your business improve customer service, automate responses to frequently asked questions, and analyze customer feedback.",
+        "icon": "/assets/images/nlp.svg"
       },
       {
-        "name": "Tailwind",
-        "description": "Tailwind CSS is a highly customizable, low-level CSS framework for quickly creating beautiful designs without any annoying opinionated stylesheet nonsense.",
-        "icon": "/assets/images/tailwindcss.svg"
+        "name": "Chatbots",
+        "description": "Our AI-powered chatbots can help your business automate customer service, sales, and marketing operations. We develop chatbots that can communicate with customers in a natural and intuitive way, providing them with personalized recommendations and support.",
+        "icon": "/assets/images/chatbots.svg"
       },
       {
-        "name": "Next.js",
-        "description": "Next.js is a framework for server-rendered React applications using Next.js.",
-        "icon": "/assets/images/nextjs.svg"
+        "name": "Predictive Analytics",
+        "description": "Our predictive analytics solutions use AI algorithms to analyze historical data and provide insights into future trends. This technology can help your business make data-driven decisions, anticipate customer needs, and optimize business operations.",
+        "icon": "/assets/images/predictive-analytics.svg"
       },
       {
-        "name": "Typescript",
-        "description": "TypeScript is a programming language developed and maintained by Microsoft.",
-        "icon": "/assets/images/ts.png"
+        "name": "Computer Vision",
+        "description": "Our team develops computer vision solutions that use AI to interpret and analyze visual data. This technology can help your business improve quality control, automate tasks, and enhance customer experience. From object recognition to facial recognition, our computer vision solutions can add value to your business operations.",
+        "icon": "/assets/images/compute-vision.svg"
       }
     ]
   },
